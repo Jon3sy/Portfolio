@@ -1,0 +1,83 @@
+{
+  "projectsCube": [
+    {
+      "id": "0",
+      "Name": "Aurea",
+      "Long_Description": "Aurea is an innovative global online marketplace that celebrates individuality and empowers designers while offering a unique marketplace for jewellery enthusiasts. Buyers discover exclusive high-end jewellery, and sellers benefit from an established user base and trust in Aurea's reputation. It's a trusted hub where buyers and sellers come together to simplify the discovery and showcasing of exquisite jewellery. Aurea addresses critical issues in the online jewellery marketplace, including overwhelming design with excessive information and clutter, poor aesthetics that fail to convey luxury, challenging navigation leading to user frustration, and a lack of mobile responsiveness, which hinders the experience for mobile customers. In a world of e-commerce, Aurea stands out with its minimalist design, featuring white, black, or beige backgrounds, limited filters for jewellery type and 'collection,' and subtle presentation of prices and promotions on hover. The layout often includes a hero section with models occupying most of the screen height and fully utilizes the screen width, providing a unique and visually appealing shopping experience. Explore the world of Aurea and experience the future today.",
+      "Short_Description": "Innovative project with cutting-edge features.",
+      "Image": "/images/185.webp",
+      "backgroundColor" : "#003F5C",
+      "textColor" : "#FFFDD0",
+      "additionalImage1" : "/images/aurea-desktop.webp",
+      "additionalImage2" : "/images/aurea-tablet.webp",
+      "additionalImage3" : "",
+      "additionalImage4" : ""
+    },
+    {
+      "id": "1",
+      "Name": "AstroLift",
+      "Long_Description": "Welcome to AstroLift Labs, where innovation meets user-friendly design! Our latest project, the Interactive Catalog Viewer, showcases a seamless and engaging experience for users to explore a curated list of items. Whether you're a tech enthusiast, a science aficionado, or simply curious, AstroLift Labs has crafted an application that offers a delightful blend of functionality and aesthetics. Immerse yourself in a visually appealing catalog that presents a curated list of items. The clean and intuitive interface ensures a smooth browsing experience, allowing users to effortlessly scroll through the catalog. Dive deeper into the details of each item with our comprehensive detail view. From specifications to captivating descriptions, users can get an in-depth understanding of the products or items featured in the catalog.Tailor your experience by filtering items based on specific categories. Whether you're interested in exploring gadgets, scientific instruments, or futuristic technologies, our filter functionality ensures you find exactly what you're looking for.",
+      "Short_Description": "Space-themed cosmic adventure.",
+      "Image": "/images/1482.webp",
+      "backgroundColor" : "#CC4529",
+      "textColor" : "#FFFDD0",
+      "additionalImage1" : "/images/OIHEO71.webp",
+      "additionalImage2" : "/images/76497.webp",
+      "additionalImage3" : "",
+      "additionalImage4" : ""
+    },
+    {
+      "id": "2",
+      "Name": "Space cadet",
+      "Long_Description": "Welcome to Space Cadet, Wellington's premier ice cream adventure that takes you on an intergalactic journey of flavor exploration! As the leading ice cream store franchise in the heart of New Zealand's capital, Space Cadet is committed to elevating the ice cream experience to new heights, offering not just a treat but a cosmic adventure for your taste buds. Our mission is to be pioneers of innovation in the ice cream industry, pushing the boundaries of flavor and presentation. Dive into our extraordinary range of ice cream creations, from classic vanilla to exotic meteorite mango, carefully crafted using the finest ingredients for a taste that's truly out of this world. Explore our cosmic cones, made fresh daily, and customize your dessert with a universe of toppings, whether you prefer stardust sprinkles or nebula caramel swirls. Step into our Space Cadet stores and be transported to a galaxy far, far away, surrounded by space-themed decor creating an immersive environment for customers of all ages. While we proudly call Wellington home, Space Cadet's appeal knows no bounds, as our franchise model allows us to share the joy of our cosmic creations across New Zealand and beyond. Engaging with the local community, we actively participate in events, charities, and initiatives, fostering a sense of unity and shared exploration. Join us on our mission to make Space Cadet a household name in the world of intergalactic ice cream delights, where every scoop is a taste of the infinite. Space Cadet - Where Ice Cream Meets Infinity.",
+      "Short_Description": "Mysterious and full of surprises.",
+      "Image": "/images/1458.webp",
+      "backgroundColor" : "#6d3d8d",
+      "textColor" : "#FFFDD0",
+      "additionalImage1" : "/images/236236.webp",
+      "additionalImage2" : "/images/SpaceCadet.webp",
+      "additionalImage3" : "",
+      "additionalImage4" : ""
+    },
+    {
+      "id": "3",
+      "Name": "Man Alive",
+      "Long_Description": "Man Alive, a non-profit organization committed to supporting men on their journey to mental well-being. In our redesign of the website, we've delved into the cultural and societal nuances surrounding men's mental health, creating a platform that breaks down stigmas and encourages open dialogue. Our custom theme, overriding template files and incorporating template parts and custom post types, ensures a user-friendly experience for discovering counseling resources, personal stories, and support services. With custom taxonomies and seamless integration of the WooCommerce plugin, we've streamlined content organization and expanded our reach. Leveraging the WordPress Customization API, users can personalize their experience, while enhanced security, SEO optimization, and performance-boosting plugins guarantee a secure, discoverable, and efficient online space. Rigorous compatibility and acceptance testing, coupled with a smooth remote server migration, solidify our commitment to providing a reliable and empowering platform for men seeking guidance and connection. Join us on this journey of self-discovery at Man Alive, where authenticity and resilience thrive.",
+      "Short_Description": "Exciting adventure and exploration.",
+      "Image": "/images/OKR0RQ1.webp",
+      "backgroundColor" : "#5392AD",
+      "textColor" : "#FFFDD0",
+      "additionalImage1" : "/images/1231234.webp",
+      "additionalImage2" : "/images/Free_HP_Elite_Dragonfly_Laptop_Mockup_01.webp",
+      "additionalImage3" : "",
+      "additionalImage4" : ""
+    },
+    {
+      
+      "id": "4",
+      "Name": "Abandoned brewery",
+      "Long_Description": "Abandoned Brewery Mobile App—an innovative solution designed for beer enthusiasts seeking a seamless ordering experience. Based in Porirua, Abandoned Brewery's app boasts effortless beer selection, personalized profiles, and real-time inventory updates. With secure transactions, location-based services for exclusive experiences, and timely push notifications, this app ensures patrons stay connected to the brewery's latest releases and events. Embrace a new era of craft beer enjoyment with the Abandoned Brewery Mobile App—a pocket-sized portal to personalized, convenient, and secure brew exploration. Cheers to a modernized brewery experience!",
+      "Short_Description": "Fostering creativity and innovation.",
+      "Image": "/images/iPhone-X-Mockup.webp",
+      "backgroundColor" : "#FFA500",
+      "textColor" : "#FFFDD0",
+      "additionalImage1" : "/images/iPhone-SE-Collection-Mockup.webp",
+      "additionalImage2" : "",
+      "additionalImage3" : "",
+      "additionalImage4" : ""
+    },
+    {
+      "id": "5",
+      "Name": "Surf Life Saving NZ",
+      "Long_Description": "I had the distinct pleasure of collaborating with Surf Life-Saving Central Region to create a unique and eye-catching hoodie design for their Intermediate Lifeguard School. The objective was to capture the essence of the organization's commitment to water safety and proficiency in a design that would resonate with the intermediate lifeguards, reflecting both professionalism and the adventurous spirit of the surf life-saving community.",
+      "Short_Description": "Unique experiences and challenges.",
+      "Image": "/images/hoodie.webp",
+      "backgroundColor" : "#6E7D96",
+      "textColor" : "#FFFDD0",
+      "additionalImage1" : "/images/T-Shirt Mock-Up Front.webp",
+      "additionalImage2" : "/images/T-Shirt Mock-Up Back.webp",
+      "additionalImage3" : "",
+      "additionalImage4" : ""
+    }
+  ]
+}
