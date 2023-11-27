@@ -55,12 +55,12 @@
     {
       
       "id": "4",
-      "Name": "Abandoned brewery",
+      "Name": "Added Comfort",
       "Long_Description": "Abandoned Brewery Mobile App—an innovative solution designed for beer enthusiasts seeking a seamless ordering experience. Based in Porirua, Abandoned Brewery's app boasts effortless beer selection, personalized profiles, and real-time inventory updates. With secure transactions, location-based services for exclusive experiences, and timely push notifications, this app ensures patrons stay connected to the brewery's latest releases and events. Embrace a new era of craft beer enjoyment with the Abandoned Brewery Mobile App—a pocket-sized portal to personalized, convenient, and secure brew exploration. Cheers to a modernized brewery experience!",
       "Short_Description": "Fostering creativity and innovation.",
       "Image": "/images/iPhone-X-Mockup.webp",
-      "backgroundColor" : "#FFA500",
-      "textColor" : "#FFFDD0",
+      "backgroundColor" : "#FCF7F8",
+      "textColor" : "#062F54",
       "additionalImage1" : "/images/iPhone-SE-Collection-Mockup.webp",
       "additionalImage2" : "",
       "additionalImage3" : "",

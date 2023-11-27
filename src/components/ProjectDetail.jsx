@@ -38,8 +38,8 @@ const ProjectDetail = () => {
       <button onClick={() => navigate(-1)} className='back-button'><ArrowLeft/> go back</button>
       <div className='content-holder'>
       <img src={selectedProject.Image} alt={selectedProject.Name} className='featured-image'/>
-      <h1 className='header'>{selectedProject.Name}</h1>
-      <p className='body-text'>{selectedProject.Long_Description}</p>
+      <h1 className='header' style={{color: `${selectedProject.textColor}`}}>{selectedProject.Name}</h1>
+      <p className='body-text' style={{color: `${selectedProject.textColor}`}}>{selectedProject.Long_Description}</p>
       <img src={selectedProject.additionalImage1} className='additional-images' alt="" />
       <img src={selectedProject.additionalImage2} className='additional-images' alt="" />
       <img src={selectedProject.additionalImage3} className='additional-images' alt="" />
